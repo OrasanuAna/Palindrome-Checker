@@ -1,38 +1,38 @@
 # Palindrome Checker
 
-## Descriere
+## Description
 
-Palindrome Checker este o aplicație simplă care permite utilizatorilor să verifice dacă un număr introdus este palindrom. Un număr este considerat palindrom dacă se citește la fel de la stânga la dreapta și invers, de exemplu, numerele 121 sau 12321.
+Palindrome Checker is a simple application that allows users to check if an entered number is a palindrome. A number is considered a palindrome if it reads the same forwards and backwards, such as 121 or 12321.
 
 ## Overview
 
-Mai jos sunt exemple de utilizare a aplicației:
+Below are examples of the application in use:
 
-1. **Introducerea unui număr în aplicație**  
-   ![Introducerea unui palindrom](https://github.com/OrasanuAna/Palindrome-Checker/blob/master/palindrome%20pictures/Palindrome%20Checker.jpg)
+1. **Entering a number into the application**  
+   ![Entering a palindrome](https://github.com/OrasanuAna/Palindrome-Checker/blob/master/palindrome%20pictures/Palindrome%20Checker.jpg)
 
-2. **Verificare dacă numărul este palindrom**  
-   ![Număr corect palindrom](https://github.com/OrasanuAna/Palindrome-Checker/blob/master/palindrome%20pictures/Correct%20palindrome.jpg)
+2. **Checking if the number is a palindrome**  
+   ![Correct palindrome number](https://github.com/OrasanuAna/Palindrome-Checker/blob/master/palindrome%20pictures/Correct%20palindrome.jpg)
 
-3. **Verificare dacă numărul nu este palindrom**  
-   ![Număr incorect palindrom](https://github.com/OrasanuAna/Palindrome-Checker/blob/master/palindrome%20pictures/Incorrect%20palindrome.jpg)
+3. **Checking if the number is not a palindrome**  
+   ![Incorrect palindrome number](https://github.com/OrasanuAna/Palindrome-Checker/blob/master/palindrome%20pictures/Incorrect%20palindrome.jpg)
 
-## Funcționalități
+## Features
 
-- Introducerea unui număr pentru verificare
-- Afișarea rezultatului dacă numărul este sau nu palindrom
+- Input a number to check if it’s a palindrome
+- Display the result indicating if the number is a palindrome or not
 
-## Instalare
+## Installation
 
-1. Clonează repository-ul:
+1. Clone the repository:
    ```bash
    git clone https://github.com/OrasanuAna/Palindrome-Checker.git
    ```
-2. Accesează directorul proiectului:
+2. Navigate to the project directory:
    ```bash
    cd Palindrome-Checker
    ```
 
-## Utilizare
+## Usage
 
-Rulează aplicația și introdu un număr pentru a verifica dacă este palindrom.
+Run the application and input a number to check if it is a palindrome.
